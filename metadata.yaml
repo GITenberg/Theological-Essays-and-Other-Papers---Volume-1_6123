@@ -1,0 +1,33 @@
+_repo: Theological-Essays-and-Other-Papers---Volume-1_6123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - DeQuincey, Thomas
+    - Kvinsi, Tomas de
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+- GITenberg
+tableOfContents: On Christianity as an organ of political movement -- Protestantism
+  -- On the supposed scriptural expression for eternity -- Judas Iscariot -- On Hume's
+  argument against miracles -- Casuistry -- Greece under the Romans.
+title: Theological Essays and Other Papers — Volume 1
+url: http://www.gutenberg.org/ebooks/6123
